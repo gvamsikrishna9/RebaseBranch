@@ -1,0 +1,13 @@
+Data set for Globalization Testing
+You can use following data set to test globalization
+
+    G11N構欺運型ÄäăąĎďĐđßनमस्ते안녕 申十浩疑ŚśŞşŠŌōŎŏŒÜ안녕G11N
+	
+	十浩疑ōŎŚśđßनमस्ते안
+	
+	十浩ōŎŚśđßनम안申
+	
+	十浩ōŎŚśđßनम안申R1
+	
+Google Translate APi Key: AIzaSyCJzVFGBMrHsAqny3Y_GGcOrZ4KdHT9HEA
+	
